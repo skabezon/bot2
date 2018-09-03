@@ -1,0 +1,34 @@
+{
+  "name": "botdf",
+  "version": "1.0.0",
+  "description": "bot con df ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skabezon/deliverydf.git"
+  },
+  "author": "a jochava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skabezon/deliverydf/issues"
+  },
+  "homepage": "https://github.com/skabezon/deliverydf#readme",
+  "dependencies": {
+    "agenda": "^2.0.1",
+    "apiai": "^4.0.3",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "botkit": "^0.6.16",
+    "cli-color": "^1.3.0",
+    "csv-parse": "^3.0.0",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.2.10",
+    "read-file": "^0.2.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {}
+}
